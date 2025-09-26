@@ -1,0 +1,17 @@
+DX704 Week 4 Project — Acknowledgments
+
+Outside help:
+- None beyond course materials and standard library/documentation.
+
+Libraries used (beyond those explicitly mentioned in the module):
+- pandas: data loading, joins/reshaping, writing TSVs.
+- numpy: numeric arrays, linear algebra helpers.
+- scikit-learn (sklearn.linear_model.Ridge): ridge regression with fit_intercept=False.
+
+Generative AI usage:
+- Tool: ChatGPT (GPT-5 Thinking) by OpenAI.
+- Purpose: Assisted with drafting code cells for Parts 1–6 (data prep, ridge model, LinUCB bounds and online updates) and this acknowledgments file. I reviewed/edited code and verified outputs locally.
+
+
+Notes:
+- All final decisions, parameter choices, and submitted results are my own. I verified the correctness of the generated code and outputs before submission.
